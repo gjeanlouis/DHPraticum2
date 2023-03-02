@@ -7,7 +7,7 @@ The exercise was not too challenging because I prepared myself. I am feeling mor
 
 ## Links to the exercises done today 
 
-- [Link to my GitHub Repository for today](https://gjeanlouis.github.io/DHexercise2/) and [GitHub Pages](https://gjeanlouis.github.io/DHexercise2/)
+- [Link to my GitHub Repository for today](https://github.com/gjeanlouis/DHexercise2) and [GitHub Pages](https://gjeanlouis.github.io/DHexercise2/)
 - [Link to my HTML and CSS files](https://gjeanlouis.github.io/DHexercise2/2exercise2.html)
 - [Link to Pandoc transformations](https://github.com/gjeanlouis/DHexercise2/tree/gh-pages/exercise2)
 - [Link to my Bibliography](https://gjeanlouis.github.io/DHexercise2/bibliography.html)
