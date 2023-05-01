@@ -39,13 +39,22 @@ There are some restrictions with the Jekyll theme that make it a bit challenging
 
 ## Bibliography
 Arnold, A. James, Julio Rodríguez-Luis, and J. Michael Dash, eds. “Exile and Recent Literature” in *A History of Literature in the Caribbean: Volume 1: Hispanic and Francophone Regions.* John Benjamins Publishing, 1994.
+
 Brown, Vincent; Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery. *Social Text* 1 December 2015; 33 (4 (125)): 134 – 141.
+
 Charles, Carolle. “Gender and Politics in *Contemporary Haiti: The Duvalierist State, Transnationalism, and the Emergence of a New Feminism (1980-1990)*,” Feminist Studies, 1995.
+
 Clitandre, Nadège T. Edwidge Danticat: The Diasporic Imaginary. *University of Virginia Press*, 2018.
+
 Danticat, Edwidge. *Create dangerously: The immigrant artist at work*. Vintage, 2011.
+
 Drucker, Johanna. "Pixel dust: Illusions of innovation in scholarly publishing." *LA Review of Books* (2014)
+
 Risam, Roopika, and Kelly Baker Josephs, eds. *The Digital Black Atlantic*. U of Minnesota Press, 2021.
+
 Saunt, Claudio. "Mapping space, power, and social life." *Social Text* 33.4 (2015): 147-151.
+
 Sen, Mayukh.  “Dividing Lines. Mapping platforms like Google Earth have the legacies of colonialism programmed into them,” *Real Life Mag*, 2017.
+
 Smith, Matthew J. *Red and Black in Haiti: Radicalism, Conflict, and Political Change*, 1934-1957. Univ of North Carolina Press, 2009.
 
